@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="./banner.png" alt="Prachi Kamble — Cybersecurity Enthusiast" width="1200" />
+</p>
+
 <h1 align="center">Hi 👋, I'm Prachi kamble</h1>
 <h3 align="center">A passionate Cybersecurity Enthusiast from India</h3>
 
